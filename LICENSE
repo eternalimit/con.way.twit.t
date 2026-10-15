@@ -1,21 +1,16 @@
-MIT License
+CON.WAY.TWIT.T — VERBATIM-BOUND LIMITED LICENSE v1.0
+Effective for newly added original material on or after 2026-10-15
 
-Copyright (c) 2026 eternalimit
+Copyright (c) 2026 Richard Stein. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. SCOPE. This notice applies only to original creative writing, dialogue, scripts, storyboards, production notes, artwork, and other content expressly designated as covered by this license and added on or after its effective date by the rights holder. It does not apply to third-party material or override separate licenses on files.
+2. PERMITTED ACCESS. The public may access, read, and link to the repository, and make technically necessary transient copies for ordinary viewing, subject to applicable law. No general permission is granted to reproduce, adapt, distribute, perform, commercialize, train models on, or create derivative works from covered content. Any additional permission requires express written authorization from the rights holder.
+3. VERBATIM BOUNDARY. Quotation or reproduction under a separately negotiated license must preserve the licensed words verbatim, the approved scope, attribution, and provenance. This provision does not restrict quotation or other use permitted independently by law.
+4. IDENTIFICATION. A filename, title, version, commit ID, and content hash may identify the precise authorized artifact. Hashes prove byte consistency only; they are not signatures or evidence of legal ownership.
+5. THIRD-PARTY RIGHTS. No rights are claimed in third-party songs, recordings, trademarks, celebrity names, likenesses, or other third-party materials. Appropriate permissions may be needed for production or commercial use.
+6. PRIOR GRANTS. Earlier versions or files distributed under MIT or other valid licenses remain subject to those licenses for copies received under those terms. This notice does not revoke rights already granted or relicense third-party code.
+7. NO IMPLIED ENDORSEMENT. Fictional stage portrayals do not imply endorsement by any real person or estate.
+8. WARRANTY. Covered materials are supplied as-is, without warranty to the extent permitted by law.
+9. CONTACT / PERMISSION. Request written authorization from the rights holder before any use not expressly permitted by this notice or law.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+NOTICE: This is a custom restrictive content license, not an OSI-approved open-source software license. Legal review is recommended before commercial enforcement or distribution.
