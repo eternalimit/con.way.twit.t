@@ -1,0 +1,16 @@
+{
+  "schema": "the-cube-production-manifest-v1",
+  "asset_id": "MU-PUPPY-CHOW-2026-10-16",
+  "title": "Conway Twitty's Puppy Chow — MU Loves This Stuff!",
+  "edition": "MASTER.ORIGIN",
+  "hold": "0 HOLD",
+  "creator": "Richard Stein",
+  "rights": "Richard Stein. All Rights Reserved.",
+  "script_path": "Conway_Twitty_Hollywood_Box_Set/MU_Puppy_Chow_MASTER_ORIGIN_2026-10-16.md",
+  "image_status": "PENDING_NOT_GENERATED",
+  "publication_authorized": false,
+  "proof_log": "CRITY-RECEIPT-2026-008 user supplied; not independently verified",
+  "merkle_root_claim": "e84227e670e912766efe96ecd5d078044800930bec00c0b3ca9defb2601cf50a",
+  "sha256_claim": "44de6a95a05f4621ea74e74573413914a96f5b6372700f495fd3443c38ae88f4",
+  "note": "Hash values above are unverified external claims, not computed hashes of this manifest."
+}
