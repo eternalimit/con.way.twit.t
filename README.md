@@ -13,3 +13,10 @@
 ## Security Check — MASTER.ORIGIN handoff
 
 The [Security Check script](scripts/MASTER_ORIGIN_SECURITY_CHECK_AI_HANDOFF_2026-10-16.md) and [ASCII / AI handoff](handoffs/MASTER_ORIGIN_SECURITY_CHECK_ALLS_2026-10-16.md) are newly added original project records under **Edition 0 · MASTER.ORIGIN · 0 HOLD**. For original material expressly covered, the prospective [Verbatim-Bound Limited License v1.0](LICENSE) governs; prior valid MIT grants and third-party rights remain unaffected. The $1.50 ticket and security scene are fictional, and no security guard image has yet been generated. **Richard Stein. All Rights Reserved.**
+
+
+## MU Puppy Chow — MASTER.ORIGIN · 0 HOLD (2026-10-16)
+
+[Commercial script and image handoff](Conway_Twitty_Hollywood_Box_Set/MU_Puppy_Chow_MASTER_ORIGIN_2026-10-16.md) · [Production manifest](Conway_Twitty_Hollywood_Box_Set/MU_Puppy_Chow_MANIFEST_2026-10-16.json).
+
+MU is a fawn-colored pug puppy. The fictional Conway Twitty's Puppy Chow commercial features Conway kneeling beside MU, gently petting his head as MU eats chow under a golden spotlight. **Image pending; no image generated.** Script/metadata only, **0 HOLD**, no commercial release, endorsement or third-party rights clearance asserted. Richard Stein. All Rights Reserved.
