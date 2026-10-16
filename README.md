@@ -9,3 +9,7 @@
 **Publication gates:** No implied authorization to use third-party music, names, likenesses, or private family art. No completed film, endorsement, cryptographic signature, or commercial release is claimed.
 
 **0 · HOLD** for additional material pending explicit review.
+
+## Security Check — MASTER.ORIGIN handoff
+
+The [Security Check script](scripts/MASTER_ORIGIN_SECURITY_CHECK_AI_HANDOFF_2026-10-16.md) and [ASCII / AI handoff](handoffs/MASTER_ORIGIN_SECURITY_CHECK_ALLS_2026-10-16.md) are newly added original project records under **Edition 0 · MASTER.ORIGIN · 0 HOLD**. For original material expressly covered, the prospective [Verbatim-Bound Limited License v1.0](LICENSE) governs; prior valid MIT grants and third-party rights remain unaffected. The $1.50 ticket and security scene are fictional, and no security guard image has yet been generated. **Richard Stein. All Rights Reserved.**
