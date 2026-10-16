@@ -19,3 +19,10 @@ A surreal family-friendly backstage comedy where a country-style double act atte
 **Continuity:** Season 001 is a proposed seven-episode grouping. Season 002 is a proposed eight-episode grouping. These are not verified completed productions.
 
 **Repository integrity:** origin.master and pre-existing files are untouched. This package is new additive material only.
+
+
+## MU Puppy Chow — MASTER.ORIGIN · 0 HOLD (2026-10-16)
+
+[Commercial script and image handoff](MU_Puppy_Chow_MASTER_ORIGIN_2026-10-16.md) · [Production manifest](MU_Puppy_Chow_MANIFEST_2026-10-16.json).
+
+MU is a fawn-colored pug puppy. The fictional Conway Twitty's Puppy Chow commercial features Conway kneeling beside MU, gently petting his head as MU eats chow under a golden spotlight. **Image pending; no image generated.** Script/metadata only, **0 HOLD**, no commercial release, endorsement or third-party rights clearance asserted. Richard Stein. All Rights Reserved.
