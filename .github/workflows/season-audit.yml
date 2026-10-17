@@ -1,0 +1,39 @@
+name: Season parse, parity and rigor audit
+on:
+  push:
+    paths:
+      - 'Conway_Twitty_Hollywood_Box_Set/**'
+      - 'tools/audit_seasons.py'
+      - '.github/workflows/season-audit.yml'
+  pull_request:
+    paths:
+      - 'Conway_Twitty_Hollywood_Box_Set/**'
+      - 'tools/audit_seasons.py'
+      - '.github/workflows/season-audit.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout read-only
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Check Python syntax
+        run: python3 -m py_compile tools/audit_seasons.py
+      - name: Verify season integrity (read-only)
+        run: python3 tools/audit_seasons.py
+      - name: Preserve machine-readable audit result
+        if: always()
+        run: |
+          python3 tools/audit_seasons.py --json > season-audit.json
+          cat season-audit.json
+      - name: Upload audit artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: season-audit
+          path: season-audit.json
+          if-no-files-found: warn
