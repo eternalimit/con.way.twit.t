@@ -26,3 +26,7 @@ A surreal family-friendly backstage comedy where a country-style double act atte
 [Commercial script and image handoff](MU_Puppy_Chow_MASTER_ORIGIN_2026-10-16.md) · [Production manifest](MU_Puppy_Chow_MANIFEST_2026-10-16.json).
 
 MU is a fawn-colored pug puppy. The fictional Conway Twitty's Puppy Chow commercial features Conway kneeling beside MU, gently petting his head as MU eats chow under a golden spotlight. **Image pending; no image generated.** Script/metadata only, **0 HOLD**, no commercial release, endorsement or third-party rights clearance asserted. Richard Stein. All Rights Reserved.
+
+## Leatherbound Album — Season 001 Forward (2026-10-16)
+
+[Open the MASTER.ORIGIN leatherbound box-set binder](LEATHERBOUND_BOX_SET_MASTER_ORIGIN_2026-10-16.md). This public editorial index links existing Season 001 and 002 reconstructed development scripts and the Season 003 preview, with new R Ticket Box, Bert's Beats Dinner, Nolan bedtime, and 1 × ∞ + 1 collector notes. No finished productions, manufactured album, or third-party rights clearances are claimed. Additional assets remain **0 HOLD**.
