@@ -20,3 +20,8 @@ The [Security Check script](scripts/MASTER_ORIGIN_SECURITY_CHECK_AI_HANDOFF_2026
 [Commercial script and image handoff](Conway_Twitty_Hollywood_Box_Set/MU_Puppy_Chow_MASTER_ORIGIN_2026-10-16.md) · [Production manifest](Conway_Twitty_Hollywood_Box_Set/MU_Puppy_Chow_MANIFEST_2026-10-16.json).
 
 MU is a fawn-colored pug puppy. The fictional Conway Twitty's Puppy Chow commercial features Conway kneeling beside MU, gently petting his head as MU eats chow under a golden spotlight. **Image pending; no image generated.** Script/metadata only, **0 HOLD**, no commercial release, endorsement or third-party rights clearance asserted. Richard Stein. All Rights Reserved.
+
+
+## THE CUBE — The 100: My Life Story
+
+[Edition 0 life-story chapter index and courtroom continuity](ARCHIVE/THE_CUBE_LIFE_STORY_100_EDITION_0.md). Creative storytelling by Richard Stein; original WATT 100 Principles remain separate. **MASTER.ORIGIN · Edition 0 · 0 HOLD. © 2026 Richard Stein. All Rights Reserved.** This posting does not grant reuse or derivative rights.
